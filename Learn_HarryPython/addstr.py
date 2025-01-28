@@ -1,4 +1,4 @@
-greeting=("Good Morning ,")
+greeting=("Good Morning ,")#Gretting
 name=("Srinjoy")
 c=greeting+name#Concatenate
 print(c)
