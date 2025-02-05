@@ -1,4 +1,4 @@
-greeting=("Good Morning ,")#Gretting
+greeting=("Good Morning ,")#Gretting someone
 name=("Srinjoy")
 c=greeting+name#Concatenate
 print(c)
@@ -12,4 +12,7 @@ print(name[-4:-1])#This is same as 1 to 4\
 print(name[1:5:1])
 newname=("SrinjoyRayChaudhuri")
 print(newname[0::2])
+# This is a test change to see if Git detects the change
+
+
 
